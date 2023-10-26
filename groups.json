@@ -1,0 +1,74 @@
+{
+  "groups": [
+    {
+      "group": "1",
+      "order_status": "None",
+      "reg": [
+        "1",
+        "123",
+        "345"
+      ],
+      "code": [
+        "1",
+        "PL101PF",
+        "PL101DA"
+      ]
+    },
+    {
+      "group": "2",
+      "order_status": "None",
+      "reg": [
+        "2",
+        "123",
+        "345"
+      ],
+      "code": [
+        "2",
+        "PL101PF",
+        "PL101DA"
+      ]
+    },
+    {
+      "group": "3",
+      "order_status": "None",
+      "reg": [
+        "3",
+        "123",
+        "345"
+      ],
+      "code": [
+        "3",
+        "PL101PF",
+        "PL101DA"
+      ]
+    },
+    {
+      "group": "4",
+      "order_status": "None",
+      "reg": [
+        "4",
+        "123",
+        "345"
+      ],
+      "code": [
+        "4",
+        "PL101PF",
+        "PL101DA"
+      ]
+    },
+    {
+      "group": "5",
+      "order_status": "None",
+      "reg": [
+        "5",
+        "123",
+        "345"
+      ],
+      "code": [
+        "5",
+        "PL101PF",
+        "PL101DA"
+      ]
+    }
+  ]
+}
